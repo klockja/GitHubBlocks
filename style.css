@@ -1,0 +1,31 @@
+.top-row
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: skyblue;
+}
+
+.mid-row
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: palevioletred;
+}
+
+.bottom-row
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+img.octocat
+ {
+    height: 200px;
+    margin: 1rem;
+}
+
+.credit
+{
+    text-align: center;
+}
